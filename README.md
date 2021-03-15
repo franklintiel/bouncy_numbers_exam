@@ -1,6 +1,9 @@
 # Bouncy Number Finder Script
 This script that lests you know what is the least number in proportion to bouncy numbers found using an specific percentage
 
+# Response to The exam applied
+The least number in proportion to bouncy numbers found with percentage equal to 99% is: **1577612**
+
 ## Run Script
 ```shell
 $ python main.py
